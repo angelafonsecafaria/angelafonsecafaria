@@ -4,7 +4,7 @@
 
 My name is Ângela Fonseca :woman:, and I am from Brazil :brazil:
 
-I'm a Systems Analyst, that has been working as a Frontend developer since 2018.  :computer:
+I'm a Systems Analyst, that has been working as a Frontend developer since 2018 officially.  :computer:
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
