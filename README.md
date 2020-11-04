@@ -1,5 +1,7 @@
 ## Hey Peoples 👋
 
+ <img src="https://octodex.github.com/images/femalecodertocat.png"/> 
+ 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 My name is Ângela Fonseca :woman:, and I am from Brazil :brazil:
