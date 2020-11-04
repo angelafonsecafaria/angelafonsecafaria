@@ -1,4 +1,4 @@
-## Hey Peoples 👋
+## Hey guys 👋
 
 <div align="center">
   <img src="https://octodex.github.com/images/femalecodertocat.png" width="250"/> 
