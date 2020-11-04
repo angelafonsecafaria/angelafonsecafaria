@@ -1,6 +1,6 @@
 ## Hey Peoples 👋
 
- <img src="https://octodex.github.com/images/femalecodertocat.png" width="300"/> 
+ <img src="https://octodex.github.com/images/femalecodertocat.png" width="280" style="display:block;text-align:center"/> 
  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
