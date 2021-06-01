@@ -1,4 +1,4 @@
-## Hey guys 👋
+## Hey GUYS :woman:, my name is Angela Fonseca and I from Brazil :brazi:
 
 <!-- <div align="center">
   <img src="https://octodex.github.com/images/femalecodertocat.png" width="250"/> 
