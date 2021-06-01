@@ -1,4 +1,4 @@
-## Hey Guys, my name's Angela Fonseca :brazil: ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+## Hey Guys, my name's Angela Fonseca :brazil:
 
 <!-- <div align="center">
   <img src="https://octodex.github.com/images/femalecodertocat.png" width="250"/> 
@@ -8,9 +8,9 @@
 
 
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/angelafonsecafaria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelafonsecafaria&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
