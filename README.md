@@ -22,7 +22,7 @@
 </div>
   <br>
   
- <a href="https://www.linkedin.com/in/ângela-fonseca-faria-9b2391120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/ângela-fonseca-faria-9b2391120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
   </div>
 ## Technologies :star:
 These are some of the technologies and tools that I work with:
