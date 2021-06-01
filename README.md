@@ -27,7 +27,7 @@
  <a href="https://www.linkedin.com/in/ângela-fonseca-faria-9b2391120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--      <a target="_blank"><img src="https://cdn.dribbble.com/users/364116/screenshots/1899338/yogocat_animation.gif" target="_blank"></a> 
  -->
-     ![Snake animation](https://github.com/angelafonsecafaria/angelafonsecafaria/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/angelafonsecafaria/blob/output/github-contribution-grid-snake.svg)
 
   </div>
 
