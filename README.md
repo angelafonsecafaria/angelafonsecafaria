@@ -1,4 +1,4 @@
-## Hey Guys, my name is Angela Fonseca :brazil:
+## Hey Guys, my name is Angela Fonseca :brazil: ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 <!-- <div align="center">
   <img src="https://octodex.github.com/images/femalecodertocat.png" width="250"/> 
@@ -6,7 +6,6 @@
  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
-My name is Ângela Fonseca :woman:, and I am from Brazil :brazil:
 
  <div>
   <a href="https://github.com/rafaballerini">
