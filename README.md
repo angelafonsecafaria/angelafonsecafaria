@@ -1,4 +1,4 @@
-## Hey Guys, my name's Angela Fonseca :brazil:
+## Hey Guys, my name's Ângela Fonseca :brazil:
 
 <!-- <div align="center">
   <img src="https://octodex.github.com/images/femalecodertocat.png" width="250"/> 
