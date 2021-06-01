@@ -20,7 +20,6 @@
   <img align="center" alt="Angela-angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
 
 </div>
-<div>
   <br>
   
  <a href="https://www.linkedin.com/in/ângela-fonseca-faria-9b2391120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
