@@ -29,3 +29,6 @@
         </div>
     </a>
 </div>
+
+  ![Snake animation](https://github.com/angelafonsecafaria/angelafonsecafaria/blob/output/github-contribution-grid-snake.svg)
+
