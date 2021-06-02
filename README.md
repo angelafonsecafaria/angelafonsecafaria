@@ -12,7 +12,7 @@
  <img align="center" alt="Angela-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Angela-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
  <img align="center" alt="Angela-angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
- <img align="right" alt="Rafa-yoda" src="https://i.pinimg.com/originals/ea/86/2c/ea862c2c1781bb4233ef774f8dfe7f19.gif">
+ <img align="right" alt="Rafa-yoda" src="https://www.pinclipart.com/picdir/middle/35-359998_transparent-background-pusheen-gif-clipart.png">
 </div>
   
   ##
