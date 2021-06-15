@@ -1,5 +1,5 @@
 
- ## Hey Guys, my name's Ângela Fonseca :brazil:
+ ## Hey guys, my name's Ângela Fonseca :brazil:
  <div>
   <a href="https://github.com/angelafonsecafaria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelafonsecafaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
