@@ -12,6 +12,7 @@
  <img align="center" alt="Angela-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Angela-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
  <img align="center" alt="Angela-angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Angela-dcoker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
  <img align="right" alt="Angela-cat" height="150" width="180" src="https://acegif.com/wp-content/gifs/happy-cat-26.gif">
 </div>
   
